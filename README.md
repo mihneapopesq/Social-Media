@@ -1,5 +1,7 @@
 # Social-Media
 
+Project by Casian Drugea and Popescu Mihnea-Gabriel
+
 The Social Media platform is designed to facilitate user interactions through posts, reposts, likes, and social connections. It provides various functionalities to manage and explore content and connections, enabling users to engage with their network in meaningful ways.
 
 Key features include:
